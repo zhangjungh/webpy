@@ -1,0 +1,7 @@
+requests
+lxml
+beautifulsoup4
+whitenoise
+google-cloud-logging
+web.py==0.40
+gunicorn
